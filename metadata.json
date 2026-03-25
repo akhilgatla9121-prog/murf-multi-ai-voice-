@@ -1,0 +1,7 @@
+{
+  "name": "MurfVoice Assistant",
+  "description": "An AI-powered customer assistant with high-quality voice synthesis using Murf AI and Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
